@@ -1,6 +1,6 @@
 
 ```sh
-(env) cccimac@cccimacdeiMac 00d-c4symdump % ./test.sh
+(env) jonathan@Jonathan 00d-c4symdump % ./test.sh
 + gcc -w c4.c -o c4
 + ./c4 -s test/fib.c
 1: #include <stdio.h>
