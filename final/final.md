@@ -110,8 +110,7 @@ $ ./c4 -s test/power2.c
 [hw3](https://github.com/Jonathan-es/_sp/tree/main/hw3)
 
 參考同學，使用ChatGPT調試問題
-```
-```
+
 ```
 while (tk = *p) {
     ++p;
@@ -167,8 +166,6 @@ mul3:
 
 參考同學，使用ChatGPT調試問題
 
-```
-```
 ```
 	.file	"power.c"
 	.text
@@ -237,4 +234,4 @@ LFE11:
 	.def	_printf;	.scl	2;	.type	32;	.endef
 ```
 
-```
+---
